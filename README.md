@@ -1,6 +1,7 @@
 # FileInfo-CRUD
 Basic CRUD operations on fileInfo
-Please Follow the below instructions to run project successfully: 
+Please Follow the below instructions to run project successfully:
+ Checkout the project from git
  Open SSMS
  Create Database -> FileInfo
  Open FileInfoApp.sln
